@@ -30,7 +30,3 @@ You will also see any lint errors in the console.
 - [Nodes](https://nodejs.org/en/)
 - [ReactJs](https://reactjs.org/)
 - [TMDB](https://www.themoviedb.org) - Database movie
-
-## Authors
-
-- **Ahmad Zaky**
